@@ -1,4 +1,5 @@
 # Easy-NodeJS-Template-App
+
 NodeJS Template application bootstraped with eslint, typescript and husky.
 
 ## Setup
