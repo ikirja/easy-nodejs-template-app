@@ -36,7 +36,14 @@ npm run preview
 
 ## Environment variables
 
-Application is using environment variables. You have to define: NODE_ENV (development or production), PORT (on which the server will run locally), DB (mongodb URI to connect to, example: mongodb://127.0.0.1:27017/name-of-database), API_KEY (to access application's REST API). You can define all needed variables in .env file in root folder of this application.
+Application is using environment variables. You have to define:
+
+- NODE_ENV (development or production)
+- PORT (on which the server will run locally), default: 3000
+- DB (mongodb URI to connect to, example: mongodb://127.0.0.1:27017/name-of-database)
+- API_KEY (to access application's REST API).
+
+You can define all needed variables in .env file in root folder of this application.
 
 ## Additional information
 
@@ -44,4 +51,4 @@ Easy-NodeJS-Template-App is built on NodeJS (^18.20.2), ExpressJS (^4), MongoDB 
 
 # Copyright
 
-EasyOneWeb LLC 2020 - 2024. All rights reserved. See LICENSE.md for licensing and usage information.
+EasyOneWeb LLC 2020 - 2025. All rights reserved. See LICENSE.md for licensing and usage information.
